@@ -12,17 +12,21 @@
 ## Have some experience with
 
 <p><b>✎ Front-end</b></p>
-<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=E34F26" style="display: inline-block;"/> 
-<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=1572B6" style="display: inline-block;"/>
-<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=F7DF1E" style="display: inline-block;"/>
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=61DAFB" style="display: inline-block;"/>
-<img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor=764ABC" style="display: inline-block;"/>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=E34F26" style="display: inline-block;"/> 
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=1572B6" style="display: inline-block;"/>
+  <img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=F7DF1E" style="display: inline-block;"/>
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=61DAFB" style="display: inline-block;"/>
+  <img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor=764ABC" style="display: inline-block;"/>
+</p>
 
 <p><b>✎ Back-end</b></p>
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=Node.js&logoColor=339933" style="display: inline-block;"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white" style="display: inline-block;"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=MongoDB&logoColor=47A248" style="display: inline-block;"/>
-<img src="https://img.shields.io/badge/Amazon EC2-000000?style=flat-square&logo=Amazon EC2&logoColor=FF9900" style="display: inline-block;"/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=Node.js&logoColor=339933" style="display: inline-block;"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white" style="display: inline-block;"/>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=MongoDB&logoColor=47A248" style="display: inline-block;"/>
+  <img src="https://img.shields.io/badge/Amazon EC2-000000?style=flat-square&logo=Amazon EC2&logoColor=FF9900" style="display: inline-block;"/>
+</p>
 
 ---
 
