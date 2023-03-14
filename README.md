@@ -16,7 +16,7 @@ const jinbok = {
 };
 ```
 
-![Metrics](/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/jinbokk)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbokk&show_icons=true&theme=nord&hide=contribs,prs,stars&hide_rank=true)
 
