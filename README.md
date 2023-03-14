@@ -44,7 +44,7 @@ const jinbok = {
 <!-- ![rofile-3d-contrib](profile-3d-contrib/profile-night-green.svg) -->
 <img src="profile-3d-contrib/profile-night-green.svg" alt="ISO_Commit" width="800"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbokk&show_icons=true&hide=contribs,stars&hide_rank=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbokk&hide_progress=true)](https://github.com/jinbokk/github-readme-stat)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbokk&hide_progress=true)](https://github.com/jinbokk/github-readme-stat) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbokk&show_icons=true&hide=contribs,pr,stars&hide_rank=true&hide_border=true)
 <!-- &theme=nords -->
 ---
 
