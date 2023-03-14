@@ -1,11 +1,9 @@
   <h1> Hi, I'm Jinbok! <a href="mailto:eyelash1024@naver.com" target="_blank"><img src="https://img.shields.io/badge/E&#8211;MAIL-eyelash1024@naver.com-white?style=flat-square&logo=Minutemailer&logoColor=white"/></a></h1>
 
-  ### After completing my degree in Architecture,
-  ### I became interested in design
+  #### After completing my degree in Architecture,
+  #### I became interested in design
 
-  <br/>
-
-  ## **"and now aspire to become a Front-End Developer."**
+  ### **"and now aspire to become a Front-End Developer."**
 
 <!-- <span>[![GitHub Jinbokk](https://img.shields.io/github/followers/jinbokk?label=follow&style=social)](https://github.com/jinbokk)</span> -->
 
@@ -14,17 +12,10 @@
 ## Have some experience with
 
 <p><b>✎ Front-end</b></p>
-<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor=764ABC"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=1572B6"/>  <img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor=764ABC"/>
 
 <p><b>✎ Back-end</b></p>
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=Node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=MongoDB&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/Amazon EC2-000000?style=flat-square&logo=Amazon EC2&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=Node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=MongoDB&logoColor=47A248"/> <img src="https://img.shields.io/badge/Amazon EC2-000000?style=flat-square&logo=Amazon EC2&logoColor=FF9900"/>
 
 ---
 
