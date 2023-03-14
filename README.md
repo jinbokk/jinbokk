@@ -44,8 +44,8 @@ const jinbok = {
 <!-- ![rofile-3d-contrib](profile-3d-contrib/profile-night-green.svg) -->
 <img src="profile-3d-contrib/profile-night-green.svg" alt="ISO_Commit" width="800"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbokk&show_icons=true&theme=nord&hide=contribs,stars&hide_rank=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbokk&hide_progress=true&theme=nords)](https://github.com/jinbokk/github-readme-stat)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbokk&show_icons=true&theme=nord&hide=contribs,stars&hide_rank=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbokk&hide_progress=true)](https://github.com/jinbokk/github-readme-stat)
+<!-- &theme=nords -->
 ---
 
 ### **Check out my live commercial website** :point_right: <a href="https://eeso-cake.com" target="_blank"><img src="https://img.shields.io/badge/EESO&#8211;CAKE-pink?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
