@@ -7,7 +7,7 @@
 
 <br/>
 
-## **Have some experience with**
+## **Have Some Experience With..**
 
   <p><b>✎ Front-end</b></p>
   <p>
@@ -27,6 +27,8 @@
 
 <br/>
 
+## **More About Me..**
+
 <!-- ### A little more about me...
 
 ```javascript
@@ -42,4 +44,4 @@ const jinbok = {
 
 ---
 
-## Check out my live commercial website :point_right: <a href="https://eeso-cake.com" target="_blank"><img src="https://img.shields.io/badge/EESO&#8211;CAKE-pink?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
+### **Check out my live commercial website** :point_right: <a href="https://eeso-cake.com" target="_blank"><img src="https://img.shields.io/badge/EESO&#8211;CAKE-pink?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
