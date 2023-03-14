@@ -42,7 +42,7 @@ const jinbok = {
 <!-- ![Metrics](https://metrics.lecoq.io/jinbokk?plugin_isocalendar=yes&plugin_isocalendar_duration=half-year) -->
 
 <!-- ![rofile-3d-contrib](profile-3d-contrib/profile-night-green.svg) -->
-<img src="profile-3d-contrib/profile-night-green.svg" alt="ISO_Commit" width="700"/>
+<img src="profile-3d-contrib/profile-night-green.svg" alt="ISO_Commit" width="800"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbokk&show_icons=true&theme=nord&hide=contribs,stars&hide_rank=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbokk&hide_progress=true&theme=nords)](https://github.com/jinbokk/github-readme-stat)
 
