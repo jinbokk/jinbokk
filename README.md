@@ -16,6 +16,8 @@ const jinbok = {
 };
 ```
 
+![Metrics](/github-metrics.svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbokk&show_icons=true&theme=nord&hide=contribs,prs,stars&hide_rank=true)
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
