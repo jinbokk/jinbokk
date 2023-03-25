@@ -3,7 +3,17 @@
   #### After completing my degree in Architecture,
   #### I became interested in design
   ### **"and now aspire to become a Front-End Developer."**
-  <!-- <span>[![GitHub Jinbokk](https://img.shields.io/github/followers/jinbokk?label=follow&style=social)](https://github.com/jinbokk)</span> -->
+  
+  
+I am currently a student studying to become a developer,
+as I believe it is one of the best ways to constantly grow
+by learning new technologies and tackling challenging projects. 
+
+Developing software offers the opportunity to design and build something innovative and valuable to society, 
+and I am committed to working hard to become a skilled and dedicated developer
+who can create meaningful products that make a difference.
+  
+  
 
 <br/>
 
