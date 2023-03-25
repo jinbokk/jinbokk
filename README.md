@@ -8,13 +8,13 @@ Developing software offers the opportunity to design and build something innovat
 <div align="center">
 <!--     <img src="https://i.imgur.com/mUgkN0y.png" alt="Developer Intro Image"> -->
   <h3><em><strong>I aspire to become a developer.</strong></em></h3>
-    <block>
+    <blockquote>
         <p>"I am currently aspiring to become a Front-End Developer</p>
         <p>as I believe it is one of the best ways to constantly grow by learning new technologies and tackling challenging projects.</p>
         <p>Developing software offers the opportunity to design and build something innovative and valuable to society,</p>
         <p>and I am committed to working hard to become a skilled and dedicated developer</p>
         <p>who can create meaningful products that make a difference."</p>
-    </block>
+    </blockquote>
 </div>
   
   
@@ -86,3 +86,15 @@ const jinbok = {
     <img src="https://img.shields.io/badge/EESO&#8211;CAKE-pink?style=flat-square&logo=Google Chrome&logoColor=white"/>
   </a>
 </p>
+
+
+
+
+
+<style>
+  blockquote {
+    border-left: none;
+    margin-left: 0;
+    padding-left: 1.6rem;
+  }
+</style>
