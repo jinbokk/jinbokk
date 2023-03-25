@@ -80,9 +80,9 @@ const jinbok = {
 <!-- &theme=nords -->
 ---
 
-<h3 align="center"><strong>Check out my first live commercial website! (Under development)</strong></h3>
+<!-- <h3 align="center"><strong>Check out my first live commercial website! (Under development)</strong></h3>
 <p align="center">
   <a href="https://eeso-cake.com" target="_blank">
     <img src="https://img.shields.io/badge/EESO&#8211;CAKE-pink?style=flat-square&logo=Google Chrome&logoColor=white"/>
   </a>
-</p>
+</p> -->
