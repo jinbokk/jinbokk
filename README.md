@@ -59,7 +59,7 @@ Developing software offers the opportunity to design and build something innovat
 </p>
 <br/>
 
-## **More About Me..**
+## **Indicator Of Passion..**
 
 <!-- ### A little more about me...
 
