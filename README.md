@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=Framer&logoColor=white" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/GSAP-000000?style=flat-square&logo=GreenSock&logoColor=white" alt="GSAP" />
   <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=Swiper&logoColor=white" alt="Swiper" />
-  <img src="https://img.shields.io/badge/Day.js-005F9E?style=flat-square&logo=Google-Calendar&logoColor=white" alt="Day.js" />
-  <img src="https://img.shields.io/badge/Moment-000000?style=flat-square&logo=Apache&logoColor=white" alt="Moment" />
+  <img src="https://img.shields.io/badge/day.js-005F9E?style=flat-square&logo=Google-Calendar&logoColor=white" alt="day.js" />
+  <img src="https://img.shields.io/badge/moment.js-000000?style=flat-square&logo=Apache&logoColor=white" alt="moment.js" />
 </p>
   <p><b>✎ Back-end</b></p>
   <p>
