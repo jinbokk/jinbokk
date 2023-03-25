@@ -10,22 +10,40 @@
 ## **Have Some Experience With..**
 
   <p><b>✎ Front-end</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=E34F26" style="display: inline-block;"/> 
-    <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=1572B6" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=F7DF1E" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=61DAFB" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor=764ABC" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/ReactRouter-000000?style=flat-square&logo=ReactRouter&logoColor=FF4154" style="display: inline-block;"/>
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=React-Router&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-008080?style=flat-square&logo=React&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=Ant-Design&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=MUI&logoColor=white" alt="Material-UI" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=Framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/GSAP-000000?style=flat-square&logo=GreenSock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=Swiper&logoColor=white" alt="Swiper" />
+  <img src="https://img.shields.io/badge/Day.js-005F9E?style=flat-square&logo=Google-Calendar&logoColor=white" alt="Day.js" />
+  <img src="https://img.shields.io/badge/Moment-000000?style=flat-square&logo=Apache&logoColor=white" alt="Moment" />
+</p>
   <p><b>✎ Back-end</b></p>
   <p>
-    <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=Node.js&logoColor=339933" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=MongoDB&logoColor=47A248" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/Amazon EC2-000000?style=flat-square&logo=Amazon EC2&logoColor=FF9900" style="display: inline-block;"/>
-  </p>
-
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Axios-5A3F37?style=flat-square&logo=Axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/Bcrypt-00414D?style=flat-square&logo=AdGuard&logoColor=white" alt="Bcrypt" />
+  <img src="https://img.shields.io/badge/Cookie_Parser-522B6D?style=flat-square&logo=Chocolatey&logoColor=white" alt="Cookie Parser" />
+  <img src="https://img.shields.io/badge/Cors-FFA07A?style=flat-square&logo=Internet-Explorer&logoColor=white" alt="Cors" />
+  <img src="https://img.shields.io/badge/Dotenv-06BEE1?style=flat-square&logo=.env&logoColor=white" alt="Dotenv" />
+  <img src="https://img.shields.io/badge/EJS-0078D7?style=flat-square&logo=Jinja&logoColor=white" alt="EJS" />
+  <img src="https://img.shields.io/badge/Form_Data-008000?style=flat-square&logo=Postman&logoColor=white" alt="Form Data" />
+  <img src="https://img.shields.io/badge/Iamport-00BFFF?style=flat-square&logo=Paypal&logoColor=white" alt="Iamport" />
+  <img src="https://img.shields.io/badge/Jsonwebtoken-000000?style=flat-square&logo=JSON-Web-Tokens&logoColor=white" alt="Jsonwebtoken" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/Multer-FFD700?style=flat-square&logo=Google-Drive&logoColor=white" alt="Multer" />
+  <img src="https://img.shields.io/badge/Swagger-7B65C4?style=flat-square&logo=Swagger&logoColor=white" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Node_Schedule-333333?style=flat-square&logo=Node.js&logoColor=white" alt="Node Schedule" />
+</p>
 <br/>
 
 ## **More About Me..**
