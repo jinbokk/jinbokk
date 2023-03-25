@@ -7,14 +7,14 @@ Developing software offers the opportunity to design and build something innovat
 
 <div align="center">
 <!--     <img src="https://i.imgur.com/mUgkN0y.png" alt="Developer Intro Image"> -->
-  <p><em><strong>I aspire to become a developer.</strong></em></p>
-    <blockquote>
+  <h3><em><strong>I aspire to become a developer.</strong></em></h3>
+    <block>
         <p>"I am currently aspiring to become a Front-End Developer</p>
         <p>as I believe it is one of the best ways to constantly grow by learning new technologies and tackling challenging projects.</p>
         <p>Developing software offers the opportunity to design and build something innovative and valuable to society,</p>
         <p>and I am committed to working hard to become a skilled and dedicated developer</p>
         <p>who can create meaningful products that make a difference."</p>
-    </blockquote>
+    </block>
 </div>
   
   
