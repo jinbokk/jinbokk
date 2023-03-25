@@ -1,11 +1,6 @@
 # **Hi, I'm Jinbok!** <a href="mailto:eyelash1024@naver.com" target="_blank"><img src="https://img.shields.io/badge/E&#8211;MAIL-eyelash1024@naver.com-white?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
   
-  #### After completing my degree in Architecture,
-  #### I became interested in design
-  ### **"and now aspire to become a Front-End Developer."**
-  
-  
-I am currently a student studying to become a developer,
+### **"I am currently aspiring to become a Front-End Developer."**
 as I believe it is one of the best ways to constantly grow
 by learning new technologies and tackling challenging projects. 
 
