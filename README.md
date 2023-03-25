@@ -43,6 +43,8 @@
   <img src="https://img.shields.io/badge/Multer-FFD700?style=flat-square&logo=Google-Drive&logoColor=white" alt="Multer" />
   <img src="https://img.shields.io/badge/Swagger-7B65C4?style=flat-square&logo=Swagger&logoColor=white" alt="Swagger" />
   <img src="https://img.shields.io/badge/Node_Schedule-333333?style=flat-square&logo=Node.js&logoColor=white" alt="Node Schedule" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" alt="AWS EC2" />
 </p>
 <br/>
 
