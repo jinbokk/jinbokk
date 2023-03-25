@@ -68,9 +68,11 @@ const jinbok = {
 <!-- &theme=nords -->
 ---
 
-### **Check out my live commercial website** 
+<h3 align="center"><strong>Check out my live commercial website</strong></h3>
 <p align="center">
-👇
-<br>
-<a href="https://eeso-cake.com" target="_blank"><img src="https://img.shields.io/badge/EESO&#8211;CAKE-pink?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
+  👇
+  <br>
+  <a href="https://eeso-cake.com" target="_blank">
+    <img src="https://img.shields.io/badge/EESO&#8211;CAKE-pink?style=flat-square&logo=Google Chrome&logoColor=white"/>
+  </a>
 </p>
