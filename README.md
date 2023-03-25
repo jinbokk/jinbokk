@@ -1,9 +1,18 @@
 # **Hi, I'm Jinbok!** <a href="mailto:eyelash1024@naver.com" target="_blank"><img src="https://img.shields.io/badge/E&#8211;MAIL-eyelash1024@naver.com-white?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
   
-### **I Aspire to Become a Developer**
+<!-- ### **I Aspire to Become a Developer**
 "I am currently aspiring to become a Front-End Developer as I believe it is one of the best ways to constantly grow by learning new technologies and tackling challenging projects. 
 
-Developing software offers the opportunity to design and build something innovative and valuable to society, and I am committed to working hard to become a skilled and dedicated developer who can create meaningful products that make a difference."
+Developing software offers the opportunity to design and build something innovative and valuable to society, and I am committed to working hard to become a skilled and dedicated developer who can create meaningful products that make a difference." -->
+
+<div align="center">
+    <img src="https://i.imgur.com/mUgkN0y.png" alt="Developer Intro Image">
+    <p><em>I aspire to become a developer.</em></p>
+    <blockquote>
+        <p>"I am currently aspiring to become a Front-End Developer as I believe it is one of the best ways to constantly grow by learning new technologies and tackling challenging projects.</p>
+        <p>Developing software offers the opportunity to design and build something innovative and valuable to society, and I am committed to working hard to become a skilled and dedicated developer who can create meaningful products that make a difference."</p>
+    </blockquote>
+</div>
   
   
 
