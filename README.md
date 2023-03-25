@@ -1,14 +1,3 @@
-<style>
-  blockquote {
-    border-left: none;
-    margin-left: 0;
-    padding-left: 1.6rem;
-  }
-</style>
-
-
-
-
 # **Hi, I'm Jinbok!** <a href="mailto:eyelash1024@naver.com" target="_blank"><img src="https://img.shields.io/badge/E&#8211;MAIL-eyelash1024@naver.com-white?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
   
 <!-- ### **I Aspire to Become a Developer**
