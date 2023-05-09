@@ -30,6 +30,7 @@ Developing software offers the opportunity to design and build something innovat
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=React-Router&logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/React_Hook_Form-008080?style=flat-square&logo=React&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=React&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=Ant-Design&logoColor=white" alt="Ant Design" />
   <img src="https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=MUI&logoColor=white" alt="Material-UI" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white" alt="Bootstrap" />
