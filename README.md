@@ -36,6 +36,7 @@ Developing software offers the opportunity to design and build something innovat
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=Framer&logoColor=white" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/GSAP-000000?style=flat-square&logo=GreenSock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/librarything-3CBDB1?style=flat-square&logo=GreenSock&logoColor=white" alt="LottieFiles" />
   <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=Swiper&logoColor=white" alt="Swiper" />
   <img src="https://img.shields.io/badge/Day.js-005F9E?style=flat-square&logo=Google-Calendar&logoColor=white" alt="day.js" />
   <img src="https://img.shields.io/badge/Moment.js-000000?style=flat-square&logo=Apache&logoColor=white" alt="moment.js" />
