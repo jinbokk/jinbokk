@@ -65,10 +65,11 @@ Developing software offers the opportunity to design and build something innovat
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=Mongoose&logoColor=white" alt="Mongoose" />
 </p>
 
-  <p><b>✎ Deployment</b></p>
+  <p><b>✎ CI/CD</b></p>
 <p>
   <img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" alt="AWS EC2" />
-  <img src="https://img.shields.io/badge/AWS%20Route53-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" alt="AWS Route53" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white" alt="NGINX" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white" alt="PM2" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions" />
 </p>
 <br/>
