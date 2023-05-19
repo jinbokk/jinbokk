@@ -60,6 +60,7 @@ Developing software offers the opportunity to design and build something innovat
  <p><b>✎ Data Base</b></p>
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=Mongoose&logoColor=white" alt="Mongoose" />
 </p>
 
   <p><b>✎ Deployment</b></p>
