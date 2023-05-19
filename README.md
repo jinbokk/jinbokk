@@ -49,6 +49,7 @@ Developing software offers the opportunity to design and build something innovat
   <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white" alt="NGINX" />
   <img src="https://img.shields.io/badge/Axios-5A3F37?style=flat-square&logo=Axios&logoColor=white" alt="Axios" />
   <img src="https://img.shields.io/badge/Swagger-7B65C4?style=flat-square&logo=Swagger&logoColor=white" alt="Swagger" />
   <img src="https://img.shields.io/badge/Multer-FFD700?style=flat-square&logo=Google-Drive&logoColor=white" alt="Multer" />
@@ -68,7 +69,6 @@ Developing software offers the opportunity to design and build something innovat
   <p><b>✎ CI/CD</b></p>
 <p>
   <img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" alt="AWS EC2" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white" alt="NGINX" />
   <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white" alt="PM2" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions" />
 </p>
