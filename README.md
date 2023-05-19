@@ -69,6 +69,7 @@ Developing software offers the opportunity to design and build something innovat
   <p><b>✎ Deployment</b></p>
 <p>
   <img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" alt="AWS EC2" />
+  <img src="https://img.shields.io/badge/AWS%20Route53-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" alt="AWS Route53" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions" />
 </p>
 <br/>
