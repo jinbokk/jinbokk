@@ -53,9 +53,9 @@ Developing software offers the opportunity to design and build something innovat
   <img src="https://img.shields.io/badge/Swagger-7B65C4?style=flat-square&logo=Swagger&logoColor=white" alt="Swagger" />
   <img src="https://img.shields.io/badge/Multer-FFD700?style=flat-square&logo=Google-Drive&logoColor=white" alt="Multer" />
   <img src="https://img.shields.io/badge/Bcrypt-00414D?style=flat-square&logo=AdGuard&logoColor=white" alt="Bcrypt" />
+  <img src="https://img.shields.io/badge/Jsonwebtoken-000000?style=flat-square&logo=JSON-Web-Tokens&logoColor=white" alt="Jsonwebtoken" />
   <img src="https://img.shields.io/badge/Dotenv-06BEE1?style=flat-square&logo=.env&logoColor=white" alt="Dotenv" />
   <img src="https://img.shields.io/badge/Iamport-00BFFF?style=flat-square&logo=Paypal&logoColor=white" alt="Iamport" />
-  <img src="https://img.shields.io/badge/Jsonwebtoken-000000?style=flat-square&logo=JSON-Web-Tokens&logoColor=white" alt="Jsonwebtoken" />
 
 </p>
 
