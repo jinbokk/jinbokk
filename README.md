@@ -77,7 +77,11 @@ Developing software offers the opportunity to design and build something innovat
 <br/>
 
 <div align="center">
-  <strong>"I have made efforts to gain a lot of experience so that I can adapt more quickly in the future, even if I am still at an inadequate level"</strong>
+  <strong>"I have made efforts to gain a lot of experience
+    <br/>
+    so that I can adapt more quickly in the future, 
+    <br/>
+    even if I am still at an inadequate level"</strong>
 </div>
 <br/>
 
