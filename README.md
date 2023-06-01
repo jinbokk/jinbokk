@@ -81,7 +81,7 @@ Developing software offers the opportunity to design and build something innovat
 </div>
 <br/>
 
-## **Indicator Of Passion..**
+## **Indicator Of Efforts..**
 
 <!-- ### A little more about me...
 
