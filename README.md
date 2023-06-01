@@ -73,6 +73,12 @@ Developing software offers the opportunity to design and build something innovat
   <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white" alt="PM2" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions" />
 </p>
+
+<br/>
+
+<div align="center">
+  <strong>"I have made efforts to gain a lot of experience so that I can adapt more quickly in the future, even if I am still at an inadequate level"</strong>
+</div>
 <br/>
 
 ## **Indicator Of Passion..**
