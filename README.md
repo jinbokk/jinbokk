@@ -3,16 +3,10 @@
 <br>
 <h3 align="center"><em><strong>Preparing to become a software engineer</strong></em></h3>
 <br>
-<p>Hello! My name is Jinbok. I'm currently preparing to become a software engineer.</p>
+<p>Hello, my name is Jinbok. I am working hard to become a software engineer, and I am particularly interested in growing as a frontend developer. I am passionate about providing users with better experiences and services. </p>
 
-<p>Among that, I'm particularly interested and passionate about growing as a front-end developer and providing users with better experiences and services.</p>
+<p>In my opinion, I think that <strong><em>developers</em></strong> are people who provide new conveniences or solve existing inconveniences. Therefore, I always think from the user’s perspective and aim to grow steadily by thinking about which direction is better. To achieve this goal, I always try to find new solutions even when faced with difficult tasks. I am open to new technologies and tools and pursue continuous growth.</p>
 
-<p>In my opinion, I believe that <em><strong>developers</strong></em> are professionals who use their skills to offer users new conveniences and alleviate existing inconveniences.</p>
-
-<p>I always strive to put myself in the user's shoes and contemplate what direction would be better, aiming for personal growth.</p>
-
-<p>I am an enthusiastic problem-solving developer. Even when faced with challenging tasks, I always make an effort to find new solutions. I'm open to new technologies and tools, and I maintain a constant learning mindset to continuously grow.</p>
-  
 <br/>
 
 ## **Have Some Experience With**
