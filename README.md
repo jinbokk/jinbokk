@@ -1,4 +1,4 @@
-# **Hello, I'm Jinbok !** <a href="mailto:eyelash1024@naver.com" target="_blank"><img src="https://img.shields.io/badge/E&#8211;MAIL-eyelash1024@naver.com-white?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
+# **Lee Jinbok ― @jinbokk**&nbsp;&nbsp;&nbsp;<a href="mailto:eyelash1024@naver.com" target="_blank"><img src="https://img.shields.io/badge/E&#8211;MAIL-eyelash1024@naver.com-white?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
   
 <br>
 <h3 align="center"><em><strong>Preparing to become a software engineer</strong></em></h3>
