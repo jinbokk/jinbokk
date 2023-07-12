@@ -1,27 +1,25 @@
-# **Hi, I'm Jinbok!** <a href="mailto:eyelash1024@naver.com" target="_blank"><img src="https://img.shields.io/badge/E&#8211;MAIL-eyelash1024@naver.com-white?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
+# **Hello, I'm Jinbok !** <a href="mailto:eyelash1024@naver.com" target="_blank"><img src="https://img.shields.io/badge/E&#8211;MAIL-eyelash1024@naver.com-white?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
   
-<!-- ### **I Aspire to Become a Developer**
-"I am currently aspiring to become a Front-End Developer as I believe it is one of the best ways to constantly grow by learning new technologies and tackling challenging projects. 
+<br>
+<h3 align="center"><em><strong>Preparing to become a software engineer</strong></em></h3>
+<br>
+<p>Hello! My name is Jinbok. I'm currently preparing to become a software engineer.</p>
 
-Developing software offers the opportunity to design and build something innovative and valuable to society, and I am committed to working hard to become a skilled and dedicated developer who can create meaningful products that make a difference." -->
+<p>Among that, I'm particularly interested and passionate about growing as a front-end developer and providing users with better experiences and services.</p>
 
-<div align="center">
-<!--     <img src="https://i.imgur.com/mUgkN0y.png" alt="Developer Intro Image"> -->
-  <h3><em><strong>I aspire to become a developer.</strong></em></h3>
-    <blockquote>
-        <p>"I am currently aspiring to become a Front-End Developer</p>
-        <p>as I believe it is one of the best ways to constantly grow by learning new technologies and tackling challenging projects.</p>
-        <p>Developing software offers the opportunity to design and build something innovative and valuable to society,</p>
-        <p>and I am committed to working hard to become a skilled and dedicated developer</p>
-        <p>who can create meaningful products that make a difference."</p>
-    </blockquote>
-</div>
+<p>In my opinion, I believe that <em><strong>developers</strong></em> are professionals who use their skills to offer users new conveniences and alleviate existing inconveniences. I always strive to put myself in the user's shoes and contemplate what direction would be better, aiming for personal growth.</p>
+
+<p>I am an enthusiastic problem-solving developer. Even when faced with challenging tasks, I always make an effort to find new solutions. I'm open to new technologies and tools, and I maintain a constant learning mindset to continuously grow.</p>
   
-  
-
 <br/>
 
-## **Have Some Experience With..**
+## **Have Some Experience With**
+
+<br>
+<h3 align="center">
+  <em><strong>I have made efforts to gain a lot of experience so that I can adapt more quickly in the future</strong></em>
+</h3>
+<br>
 
   <p><b>✎ Front-end</b></p>
 <p>
@@ -79,44 +77,10 @@ Developing software offers the opportunity to design and build something innovat
   <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white" alt="PM2" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions" />
 </p>
-
 <br/>
 
-<div align="center">
-  <strong>"I have made efforts to gain a lot of experience so that I can adapt more quickly in the future, 
-    <br/>
-    even if I am still at an inadequate level"</strong>
-</div>
-<br/>
-
-## **Indicator Of Efforts..**
+## **Indicator Of Efforts**
 
 | | | 
 |:---|:---:|
 |<img src="profile-3d-contrib/profile-night-green.svg" alt="ISO_Commit" width="800"/>|<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinbokk&show_icons=true&theme=dark&locale=en" alt="jinbokk" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinbokk&theme=dark" alt="jinbokk" /></p>|
-
-<!-- ### A little more about me...
-
-```javascript
-const jinbok = {
-  pronouns: "he" || "him",
-  code: [HTML, CSS, Javascript],
-  tools: [React, Redux, Node, Styled - Components, MongoDB, Axios],
-};
-``` -->
-
-<!-- ![Metrics](https://metrics.lecoq.io/jinbokk?plugin_isocalendar=yes&plugin_isocalendar_duration=half-year) -->
-
-<!-- ![rofile-3d-contrib](profile-3d-contrib/profile-night-green.svg) -->
-<!-- <img src="profile-3d-contrib/profile-night-green.svg" alt="ISO_Commit" width="800"/> -->
-
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbokk&hide_progress=true)](https://github.com/jinbokk/github-readme-stat) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbokk&show_icons=true&hide=contribs,prs,stars&hide_rank=true&hide_border=true) -->
-<!-- &theme=nords -->
----
-
-<!-- <h3 align="center"><strong>Check out my first live commercial website! (Under development)</strong></h3>
-<p align="center">
-  <a href="https://eeso-cake.com" target="_blank">
-    <img src="https://img.shields.io/badge/EESO&#8211;CAKE-pink?style=flat-square&logo=Google Chrome&logoColor=white"/>
-  </a>
-</p> -->
