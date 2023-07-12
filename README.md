@@ -28,14 +28,18 @@ Developing software offers the opportunity to design and build something innovat
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" alt="Javascript" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" alt="Next.js" />
+  <br>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript" />
+  <br>
   <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=React&logoColor=61DAFB" alt="React-native" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=React-Router&logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/React_Hook_Form-008080?style=flat-square&logo=React&logoColor=white" alt="React Hook Form" />
+  <br>
   <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=Ant-Design&logoColor=white" alt="Ant Design" />
   <img src="https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=MUI&logoColor=white" alt="Material-UI" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white" alt="Bootstrap" />
@@ -52,6 +56,7 @@ Developing software offers the opportunity to design and build something innovat
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white" alt="NGINX" />
+  <br>
   <img src="https://img.shields.io/badge/Axios-5A3F37?style=flat-square&logo=Axios&logoColor=white" alt="Axios" />
   <img src="https://img.shields.io/badge/Swagger-7B65C4?style=flat-square&logo=Swagger&logoColor=white" alt="Swagger" />
   <img src="https://img.shields.io/badge/Multer-FFD700?style=flat-square&logo=Google-Drive&logoColor=white" alt="Multer" />
