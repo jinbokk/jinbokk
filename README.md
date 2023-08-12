@@ -9,7 +9,7 @@
 
 <br/>
 
-## **Have Some Experience With**
+## **Have some experience with**
 
 <br>
 <h3 align="center">
@@ -75,7 +75,7 @@
 </p>
 <br/>
 
-## **Indicator Of Efforts**
+## **Indicator of efforts**
 
 | | | 
 |:---|:---:|
