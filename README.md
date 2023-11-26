@@ -1,9 +1,9 @@
 # **Lee Jinbok ― @jinbokk**&nbsp;&nbsp;&nbsp;<a href="mailto:eyelash1024@naver.com" target="_blank"><img src="https://img.shields.io/badge/E&#8211;MAIL-eyelash1024@naver.com-white?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
   
 <br>
-<h3 align="center"><em><strong>Preparing to become a software engineer</strong></em></h3>
+<h3 align="center"><em><strong>Preparing to become a web developer</strong></em></h3>
 <br>
-<p>Hello, my name is Jinbok. I am working hard to become a <em><strong>TRUE (a.k.a EXPERT)</strong></em> software engineer, and I am particularly interested in growing as a front-end engineer. I am passionate about providing users with better experiences and services. </p>
+<p>Hello, my name is Jinbok. I am working hard to become a <em><strong>TRUE (a.k.a EXPERT)</strong></em> web developer, and I am particularly interested in growing as a front-end engineer. I am passionate about providing users with better experiences and services. </p>
 
 <p>In my opinion, I think that <strong><em>developers</em></strong> are people who provide new conveniences or solve existing inconveniences. Therefore, I always think from the user’s perspective and aim to grow steadily by thinking about which direction is better. To achieve this goal, I always try to find new solutions even when faced with difficult tasks. I am open to new technologies and tools and pursue continuous growth.</p>
 
